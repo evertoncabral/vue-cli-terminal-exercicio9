@@ -2,7 +2,7 @@
   <div id="app">
     <h1 :teste="testando">Diretiva v-bind</h1>
     <Title titulo="Titulo 1"/>
-    <Title titulo="Titulo 2"/>
+    <Title subtitulo="subtitulo "/>
 
   </div>
 </template>
